@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<xml>
+	<program_studi>
+		<Id>1</Id>
+		<Jurusan>Teknik Informatika</Jurusan>
+		<Fakultas>FTIK</Fakultas>
+		<Email_Jurusan>ti@usm.ac.id</Email_Jurusan>
+		<Web_Jurusan>ti.usm.ac.id</Web_Jurusan>
+		<Nomor_Telepon_Jurusan>029876345</Nomor_Telepon_Jurusan>
+	</program_studi>
+</xml>
